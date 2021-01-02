@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Dabbled in:_
+  * __HTML__
+  * __CSS__
+  * __Python__
+  * __C++__
+  * __C__
